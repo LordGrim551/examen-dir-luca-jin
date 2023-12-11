@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IndianFood</string>
+    <string name="Boombayfood">BoombayFood</string>
+    <string name="author_license">Luca \n Boombay\'s restaurant©</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="checkbox">Remember me</string>
+    <string name="forgot_pass">I forgot my password</string>
+    <string name="confirm_pass">Confirm password</string>
+    <string name="email">Email</string>
+    <string name="new_acc">Create account</string>
+    <string name="already_acc">Already have an account?</string>
+    <string name="back_login">Login</string>
+</resources>
